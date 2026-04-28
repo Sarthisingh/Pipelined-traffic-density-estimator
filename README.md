@@ -1,3 +1,9 @@
+## Project Structure
+
+rtl/ → RTL modules  
+testbench/ → Verification testbench  
+simulation/ → Vivado waveforms  
+documentation/ → Project report
 
 # 🚦 Pipelined Hardware Accelerator for Real-Time Traffic Density Estimation
 
